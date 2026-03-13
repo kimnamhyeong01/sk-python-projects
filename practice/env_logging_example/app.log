@@ -1,0 +1,8 @@
+2026-03-11 16:22:28,965 | INFO | 앱 실행 시작
+2026-03-11 16:22:28,965 | DEBUG | 환경 변수 로딩 완료
+2026-03-11 16:22:28,965 | ERROR | 예외 발생 예시
+Traceback (most recent call last):
+  File "/Users/knh/Desktop/python-basic/env_logging_example/main.py", line 108, in main
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
