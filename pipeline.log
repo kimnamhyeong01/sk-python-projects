@@ -1,0 +1,24 @@
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32587, "task_id": "main", "logger": "main", "message": "파이프라인 시작 | records=200,000, workers=10"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32587, "task_id": "benchmark", "logger": "main", "message": "[단일] elapsed=0.254s  throughput=787,340 건/s"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "5ffc51bf", "logger": "worker", "message": "청크[0] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "f9b0c473", "logger": "worker", "message": "청크[1] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "5ffc51bf", "logger": "worker", "message": "청크[0] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "41f351ec", "logger": "worker", "message": "청크[2] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "f9b0c473", "logger": "worker", "message": "청크[1] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "7ff5dd61", "logger": "worker", "message": "청크[3] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "41f351ec", "logger": "worker", "message": "청크[2] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "e47acfbd", "logger": "worker", "message": "청크[4] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32602, "task_id": "82eb4216", "logger": "worker", "message": "청크[5] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "7ff5dd61", "logger": "worker", "message": "청크[3] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "1a656de4", "logger": "worker", "message": "청크[6] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "e47acfbd", "logger": "worker", "message": "청크[4] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "57e1998f", "logger": "worker", "message": "청크[7] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32602, "task_id": "82eb4216", "logger": "worker", "message": "청크[5] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32602, "task_id": "a7e577e5", "logger": "worker", "message": "청크[8] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "1a656de4", "logger": "worker", "message": "청크[6] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "bd13385a", "logger": "worker", "message": "청크[9] 시작 size=20000"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32595, "task_id": "57e1998f", "logger": "worker", "message": "청크[7] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32602, "task_id": "a7e577e5", "logger": "worker", "message": "청크[8] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32596, "task_id": "bd13385a", "logger": "worker", "message": "청크[9] 완료"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32587, "task_id": "benchmark", "logger": "main", "message": "[멀티/10코어] elapsed=0.578s  throughput=346,015 건/s"}
+{"timestamp": "2026-03-19T13:38:14", "level": "INFO", "process_id": 32587, "task_id": "benchmark", "logger": "main", "message": "Speedup=0.44x (이론 최대=10x, IPC/GIL 한계로 실제 값은 낮음)"}

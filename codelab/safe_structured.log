@@ -1,0 +1,8 @@
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35980, "task_id": "867d2193", "logger": "worker.0", "message": "청크[0] 시작  size=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35980, "task_id": "867d2193", "logger": "worker.0", "message": "청크[0] 완료  processed=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35979, "task_id": "cdd6ce1c", "logger": "worker.50", "message": "청크[50] 시작  size=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35980, "task_id": "e934ed32", "logger": "worker.100", "message": "청크[100] 시작  size=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35980, "task_id": "e934ed32", "logger": "worker.100", "message": "청크[100] 완료  processed=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35980, "task_id": "2ed8764e", "logger": "worker.150", "message": "청크[150] 시작  size=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35979, "task_id": "cdd6ce1c", "logger": "worker.50", "message": "청크[50] 완료  processed=50"}
+{"timestamp": "2026-03-19T13:56:03", "level": "INFO", "process_id": 35980, "task_id": "2ed8764e", "logger": "worker.150", "message": "청크[150] 완료  processed=50"}
